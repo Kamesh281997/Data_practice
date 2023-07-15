@@ -2,5 +2,7 @@ pandas
 seaborn
 numpy
 mysql.connector
-
+bs4 
+lxml
+requests
 -e .
